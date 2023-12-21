@@ -1,5 +1,7 @@
 # **Mundo dos Carros**
 
+![Logo](/static/img/mcqueen.jpg)
+
 Sejam bem vindos ao mundo dos carros, onde iremos resolver todos os problemas da vossa máquina!
 
 Estamos localizados pelo Algarve em diferentes localizações para facilitar a sua viagem:
