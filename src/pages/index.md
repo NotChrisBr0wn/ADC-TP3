@@ -1,6 +1,6 @@
 # **Mundo dos Carros**
 
-![Logo](/img/mcqueen.jpg)
+<img src="/static/img/mcqueen.jpg" width="200" height="100">
 
 Sejam bem vindos ao mundo dos carros, onde iremos resolver todos os problemas da vossa máquina!
 
