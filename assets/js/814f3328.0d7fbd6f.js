@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bem-vindo!","permalink":"/adc-tp3/blog/Mundo dos Carros Blog"}]}')}}]);
