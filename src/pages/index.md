@@ -1,6 +1,6 @@
 # **Mundo dos Carros**
 
-<img src="/img/mcqueen.png" height="300" width="400"/>
+<img src="/src/pages/mcqueen.png" height="300" width="400"/>
 
 Sejam bem vindos ao mundo dos carros, onde iremos resolver todos os problemas da vossa máquina!
 
