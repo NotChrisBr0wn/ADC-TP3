@@ -1,6 +1,6 @@
 # **Mundo dos Carros**
 
-![logo](/src/pages/mcqueen.png)
+![logo](/static/img/mcqueen.png)
 
 Sejam bem vindos ao mundo dos carros, onde iremos resolver todos os problemas da vossa máquina!
 
