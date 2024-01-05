@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/NotChrisBr0wn/adc-tp3',
             label: 'GitHub',
             position: 'right',
           },
