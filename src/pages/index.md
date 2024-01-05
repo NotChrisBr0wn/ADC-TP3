@@ -1,6 +1,5 @@
 # **Mundo dos Carros**
 
-<img src="/img/mcqueen.jpg" width="400" height="300"/>
 
 Sejam bem vindos ao mundo dos carros, onde iremos resolver todos os problemas da vossa máquina!
 
@@ -23,5 +22,3 @@ Estamos localizados pelo Algarve em diferentes localizações para facilitar a s
 - Horário: 9h-13h, 14h-19h
 - R. Baden-Powell 1, 8200-131 Albufeira
 - Contacto: 289 520 345
-
-- *Para consultar uma lista dos nossos serviços, clique [aqui](servicos)*
