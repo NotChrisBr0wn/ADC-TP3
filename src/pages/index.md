@@ -22,5 +22,3 @@ Estamos localizados pelo Algarve em diferentes localizações para facilitar a s
 - Horário: 9h-13h, 14h-19h
 - R. Baden-Powell 1, 8200-131 Albufeira
 - Contacto: 289 520 345
-
-- *Para consultar uma lista dos nossos serviços, clique [aqui](servicos)*
