@@ -2,19 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/adc-tp3/blog</id>
     <title>Mundo dos Carros Blog</title>
-    <updated>2024-01-05T01:12:16.000Z</updated>
+    <updated>2023-12-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/adc-tp3/blog"/>
     <subtitle>Mundo dos Carros Blog</subtitle>
     <icon>https://github.com/adc-tp3/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[*Quem somos nós?]]></title>
-        <id>https://github.com/adc-tp3/blog/sobrenos</id>
-        <link href="https://github.com/adc-tp3/blog/sobrenos"/>
-        <updated>2024-01-05T01:12:16.000Z</updated>
-        <summary type="html"><![CDATA[Nós somos uma oficina criada por 3 jovens com gosto pela mecânica e acima de tudo carros.]]></summary>
-        <content type="html"><![CDATA[<p>Nós somos uma oficina criada por 3 jovens com gosto pela mecânica e acima de tudo carros.</p><p>Criamos este projeto com o intuito de ajudar os vossos veículos, misturando assim o trabalho com o lazer, visto que é uma área que nos fascina mais a cada dia que passa.</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Bem-vindo!]]></title>
         <id>https://github.com/adc-tp3/blog/Mundo dos Carros Blog</id>
