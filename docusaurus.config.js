@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Food Timer',
-  tagline: 'Cozinhe facilmente',
+  tagline: 'Cozinhe com facilidade',
   favicon: 'img/cooktimer.ico',
 
   // Set the production url of your site here
