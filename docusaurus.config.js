@@ -25,7 +25,7 @@ const config = {
   organizationName: 'NotChrisBr0wn', // Usually your GitHub org/user name.
   projectName: 'ADC-TP3', // Usually your repo name.
   deploymentBranch: "gh-pages",
-  trailingSlash: false, 
+  trailingSlash: false,
 
 
   onBrokenLinks: 'throw',
