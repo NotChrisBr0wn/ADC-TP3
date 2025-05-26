@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Food Timer App',
+  tagline: 'Cozinhe facilmente',
+  favicon: 'img/cooktimer.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
