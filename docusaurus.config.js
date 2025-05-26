@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Food Timer App',
+  title: 'Food Timer',
   tagline: 'Cozinhe facilmente',
   favicon: 'img/cooktimer.ico',
 
