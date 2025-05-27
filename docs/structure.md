@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Estrutura do Projeto - Food Timer
 
 Este documento descreve a organização dos principais ficheiros do projeto **Food Timer**, uma aplicação web desenvolvida com Flask para gerenciamento de alimentos e controlo de temporizadores.

@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Guia de Instalação do Cooking Timer
 
 Este guia descreve como instalar e iniciar rapidamente a aplicação **Food Timer**, desenvolvida com Flask e MySQL.
