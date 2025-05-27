@@ -19,4 +19,4 @@ A comida queima ou fica crua.
 
 Falta de organização nas refeições da semana.
 
-![burning](img/burning.png)
+![burning](../static/img/burning.png)
