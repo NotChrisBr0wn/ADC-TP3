@@ -24,8 +24,8 @@ const sidebars = {
     'hello',
     {
       type: 'category',
-      label: 'Guia',
-      items: ['introducao', 'funcionalidades', 'instalacao', 'estrutura'],
+      label: 'Guide',
+      items: ['Intro', 'Installation', 'Structure'],
     },
   ],
 };
