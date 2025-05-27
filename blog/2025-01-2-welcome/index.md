@@ -2,9 +2,7 @@
 slug: Bem-Vindo
 title: Bem-Vindo
 date: 2025-01-02
-authors: -daniel
-         -mateus
-         -richard
+authors: [daniel, mateus, richard]
 tags: [ola, hello, foodtimer]
 ---
 
