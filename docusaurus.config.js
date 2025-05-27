@@ -127,7 +127,7 @@ const config = {
               {
                 label: 'Estrutura',
                 to: '/docs/structure',
-              }
+              },
               {
                 label: 'Download',
                 to: '/docs/installation',
