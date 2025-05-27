@@ -8,85 +8,65 @@
     <subtitle>Food Timer Blog</subtitle>
     <icon>https://github.com/ADC-TP3/en/img/time.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://github.com/ADC-TP3/en/blog/long-blog-post</id>
-        <link href="https://github.com/ADC-TP3/en/blog/long-blog-post"/>
+        <title type="html"><![CDATA[Benefícios da app]]></title>
+        <id>https://github.com/ADC-TP3/en/blog/beneficios</id>
+        <link href="https://github.com/ADC-TP3/en/blog/beneficios"/>
         <updated>2025-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <summary type="html"><![CDATA[Porque deve usar o FoodTimer:]]></summary>
+        <content type="html"><![CDATA[<p>Porque deve usar o FoodTimer:</p>
+<p>⏱️ Temporizador para cada alimento</p>
+<p>📷 Visual intuitivo com imagens reais dos ingredientes</p>
+<p>🧠 Automatização da rotina na cozinha</p>
+<p>🛠️ Interface simples, ideal até para quem não entende de tecnologia</p>]]></content>
         <author>
             <name>Daniel Batista</name>
             <uri>https://github.com/NotChrisBr0wn</uri>
         </author>
-        <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="FoodTimer" term="FoodTimer"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://github.com/ADC-TP3/en/blog/first-blog-post</id>
-        <link href="https://github.com/ADC-TP3/en/blog/first-blog-post"/>
+        <title type="html"><![CDATA[O Problema Real]]></title>
+        <id>https://github.com/ADC-TP3/en/blog/cozinhar</id>
+        <link href="https://github.com/ADC-TP3/en/blog/cozinhar"/>
         <updated>2025-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <summary type="html"><![CDATA[Falta de tempo.]]></summary>
+        <content type="html"><![CDATA[<p>Falta de tempo.</p>
+<p>Dificuldade de lembrar o ponto certo de cada alimento.</p>
+<p>Muitas tarefas acontecendo ao mesmo tempo.</p>
+<p>A comida queima ou fica crua.</p>
+<p>Falta de organização nas refeições da semana.</p>
+<p><img decoding="async" loading="lazy" alt="burning" src="https://github.com/ADC-TP3/en/assets/images/burning-7274471e7e60e0b0aa83da5f4603193e.png" width="626" height="490" class="img_ev3q"></p>]]></content>
         <author>
             <name>Daniel Batista</name>
             <uri>https://github.com/NotChrisBr0wn</uri>
         </author>
-        <category label="hola" term="hola"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="ola" term="ola"/>
+        <category label="Hello" term="Hello"/>
+        <category label="FoodTimer" term="FoodTimer"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alert]]></title>
         <id>https://github.com/ADC-TP3/en/blog/Alert</id>
         <link href="https://github.com/ADC-TP3/en/blog/Alert"/>
         <updated>2025-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This app supports login via [GitHub](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiP5oDrusGNAxUafqQEHd7CGN8QFnoECA4QAQ&url=https%3A%2F%2Fgithub.com%2Flogin&usg=AOvVaw0YPQjBCLvq4nLugtBaJju7&opi=89978449.]]></summary>
-        <content type="html"><![CDATA[<p>This app supports login via [GitHub](<a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwiP5oDrusGNAxUafqQEHd7CGN8QFnoECA4QAQ&amp;url=https%3A%2F%2Fgithub.com%2Flogin&amp;usg=AOvVaw0YPQjBCLvq4nLugtBaJju7&amp;opi=89978449" target="_blank" rel="noopener noreferrer">https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwiP5oDrusGNAxUafqQEHd7CGN8QFnoECA4QAQ&amp;url=https%3A%2F%2Fgithub.com%2Flogin&amp;usg=AOvVaw0YPQjBCLvq4nLugtBaJju7&amp;opi=89978449</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use different timers for different types of food.</p></div></div>
-<p>When the timer is ready you should recieve a pop-up alert!</p>]]></content>
+        <summary type="html"><![CDATA[Use diferentes temporizadores para tipos de comida diferentes.]]></summary>
+        <content type="html"><![CDATA[<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use diferentes temporizadores para tipos de comida diferentes.</p></div></div>
+<p>Quando o temporizador acabar irá receber um alerta no aplicativo!</p>]]></content>
         <author>
             <name>Sébastien Lorber</name>
             <uri>https://github.com/RichardCesar</uri>
         </author>
-        <category label="Facebook" term="Facebook"/>
+        <category label="facebook" term="facebook"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bem-Vindo]]></title>
         <id>https://github.com/ADC-TP3/en/blog/Bem-Vindo</id>
         <link href="https://github.com/ADC-TP3/en/blog/Bem-Vindo"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://github.com/ADC-TP3/en/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+        <updated>2025-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Já queimou o arroz? Passou do ponto o frango? Está na hora de deixar a cozinha do seu jeito — organizada, rápida e sem stress.]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="já-queimou-o-arroz-passou-do-ponto-o-frango-está-na-hora-de-deixar-a-cozinha-do-seu-jeito--organizada-rápida-e-sem-stress">Já queimou o arroz? Passou do ponto o frango? Está na hora de deixar a cozinha do seu jeito — organizada, rápida e sem stress.<a href="https://github.com/ADC-TP3/en/blog/Bem-Vindo#j%C3%A1-queimou-o-arroz-passou-do-ponto-o-frango-est%C3%A1-na-hora-de-deixar-a-cozinha-do-seu-jeito--organizada-r%C3%A1pida-e-sem-stress" class="hash-link" aria-label="Direct link to Já queimou o arroz? Passou do ponto o frango? Está na hora de deixar a cozinha do seu jeito — organizada, rápida e sem stress." title="Direct link to Já queimou o arroz? Passou do ponto o frango? Está na hora de deixar a cozinha do seu jeito — organizada, rápida e sem stress.">​</a></h2>
+<p>Aqui na FoodTimer convidamo-vos a experimentar a nossa app garatuitamente e, depois de a ver em ação, se quiser poder deixar-nos uma ajuda.</p>
+<p><img decoding="async" loading="lazy" alt="cooking" src="https://github.com/ADC-TP3/en/assets/images/cooking-phone-224f21f9d284d73053caddfda8f25ca7.jpg" width="612" height="408" class="img_ev3q"></p>]]></content>
         <author>
             <name>Daniel Batista</name>
             <uri>https://github.com/NotChrisBr0wn</uri>
@@ -99,8 +79,8 @@
             <name>Sébastien Lorber</name>
             <uri>https://github.com/RichardCesar</uri>
         </author>
-        <category label="Facebook" term="Facebook"/>
+        <category label="ola" term="ola"/>
         <category label="Hello" term="Hello"/>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="FoodTimer" term="FoodTimer"/>
     </entry>
 </feed>
