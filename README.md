@@ -1,41 +1,39 @@
-# Website
+🍽️ Food Timer App Aplicação web desenvolvida com Flask para gerenciamento de alimentos e controle de temporizadores personalizados.
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+📌 Sobre o Projeto Este projeto é uma interface web simples, construída com Flask, que permite aos usuários:
 
-### Installation
+Criar, listar e deletar alimentos
 
-```
-$ yarn
-```
+Associar temporizadores aos alimentos
 
-### Local Development
+Visualizar alimentos por usuário
 
-```
-$ yarn start
-```
+Organizar tarefas relacionadas à cozinha ou controle de preparo
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+A aplicação é modularizada, separando claramente configuração, lógica de rotas, templates HTML e arquivos estáticos.
 
-### Build
+🚀 Tecnologias Utilizadas Python 3.x
 
-```
-$ yarn build
-```
+Flask
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+HTML5
 
-### Deployment
+CSS3
 
-Using SSH:
+JavaScript (Jquery)
 
-```
-$ USE_SSH=true yarn deploy
-```
+⚙️ Funcionalidades
 
-Not using SSH:
+📄 Página inicial: lista os alimentos cadastrados
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+➕ Criação de alimentos: formulário para adicionar novos alimentos
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+⏱️ Temporizadores: crie e visualize timers vinculados a alimentos
+
+🧑 Visualização por usuário: lista alimentos de um usuário específico
+
+🗑️ Remoção de alimentos: interface para deletar itens cadastrados
+
+🧩 Organização Modular
+
+app.py: Responsável por gerenciar rotas, lógica de negócio e renderização. config/: Define parâmetros globais e gerencia a conexão com o banco de dados. templates/: Contém todos os arquivos HTML com componentes reutilizáveis. static/assets/: Estilos CSS, scripts JavaScript e imagens organizados por tipo.

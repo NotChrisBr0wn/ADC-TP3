@@ -1,7 +1,7 @@
 ---
-slug: welcome
-title: Welcome
-authors: [mateus, daniel]
+slug: Bem-Vindo
+title: Bem-Vindo
+authors: [daniel, mateus, richard]
 tags: [facebook, hello, docusaurus]
 ---
 

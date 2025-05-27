@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Food Timer',
   tagline: 'Cozinhe com facilidade',
-  favicon: 'img/timer.svg',
+  favicon: 'img/time.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -35,8 +35,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt',
+    locales: ['pt','en'],
   },
 
   presets: [
@@ -82,7 +82,7 @@ const config = {
         title: 'Início',
         logo: {
           alt: 'timer',
-          src: 'img/time.ico',
+          src: 'img/timer.svg',
         },
         items: [
           {
