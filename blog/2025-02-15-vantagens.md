@@ -1,6 +1,7 @@
 ---
 slug: beneficios
 title: Benefícios da app
+date: 2025-02-15
 authors: daniel
 tags: [foodtimer]
 ---
