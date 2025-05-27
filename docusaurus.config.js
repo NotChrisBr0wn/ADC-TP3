@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Food Timer',
   tagline: 'Cozinhe com facilidade',
-  favicon: 'img/cooktimer.svg',
+  favicon: 'img/time.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',

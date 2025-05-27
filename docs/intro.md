@@ -1,47 +1,53 @@
+# Food Timer
+
+## Introdução
+
+O **Food Timer** é uma aplicação web desenvolvida com Flask, ideal para gerenciamento de alimentos e controlo de temporizadores personalizados.
+
+Com ele, você pode:
+
+- Criar, listar e eliminar alimentos;
+- Associar temporizadores personalizados a cada item;
+- Visualizar alimentos por usuário e organizar tarefas culinárias.
+
+## Objetivo
+
+Oferecer uma solução prática e eficiente para auxiliar no controle de tempo no preparo de alimentos, melhorando a organização na cozinha e evitando cozimentos incorretos.
+
+## Funcionalidades
+
+- Temporizadores com contagem regressiva personalizados por alimento;
+- Alertas visuais e sonoros;
+- Sistema de autenticação de usuário;
+- Interface intuitiva para criação, visualização e exclusão de alimentos;
+- Listagem de alimentos por usuário autenticado.
+
+## Tecnologias Utilizadas
+
+- Python 3.x
+- Flask
+- HTML5 / CSS3
+- JavaScript (com uso de jQuery)
+- MySQL (via Flask-MySQLdb)
+
+## Interface
+
+A interface é organizada por meio de templates HTML modulares, com recursos estáticos separados em pastas de estilo, script e imagem. A navegação entre páginas é feita por rotas Flask.
+
+## Como Usar
+
+1. Execute a aplicação localmente com Python + Flask;
+2. Acesse a interface via navegador (`localhost:5000`);
+3. Registre e gerencie alimentos com seus respectivos tempos;
+4. Use os temporizadores para acompanhar o preparo com precisão.
+
+## Futuras Melhorias
+
+- Integração com assistentes de voz (ex.: Alexa, Google Assistant);
+- Estatísticas de uso e relatórios personalizados;
+- Modo escuro para conforto visual;
+- Upload de imagens de alimentos.
+
 ---
-sidebar_position: 1
----
 
-# Tutorial Intro
-
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+© 2025 Cooking Timer. Todos os direitos reservados.
