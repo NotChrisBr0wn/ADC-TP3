@@ -1,7 +1,7 @@
 ---
 slug: cozinhar
 title: O Problema Real
-authors: [daniel]
+authors: daniel
 tags: [ola, hello, foodtimer]
 ---
 
