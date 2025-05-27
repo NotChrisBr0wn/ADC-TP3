@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadc=self.webpackChunkadc||[]).push([[504],{4957:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ADC-TP3/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
