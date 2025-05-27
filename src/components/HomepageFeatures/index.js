@@ -19,7 +19,7 @@ const FeatureList = [
     description: (
       <>
         O FoodTime APP permite-lhe focar noutras coisas enquanto deixa o seu alimento
-        a cozinhar como por exemplo ir cortar uma batata enquantro frita um ovo.
+        a cozinhar como por exemplo ir cortar uma batata enquanto frita um ovo.
       </>
     ),
   },
@@ -28,8 +28,8 @@ const FeatureList = [
     Svg: require('@site/static/img/customize.svg').default,
     description: (
       <>
-        Extenda ou customize os temporizadores dos seus alimentos 
-        preferidos de maneira simples e eficáz..
+        Estenda ou customize os temporizadores dos seus alimentos 
+        preferidos de maneira simples e eficaz..
       </>
     ),
   },

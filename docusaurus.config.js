@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Food Timer',
   tagline: 'Cozinhe com facilidade',
-  favicon: 'img/time.ico',
+  favicon: 'img/timer.svg',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -92,6 +92,8 @@ const config = {
             label: 'Sobre a App',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://github.com/Ambientes-Colaborativos/trabalho_pratico_2/blob/main/documentacao_tp2.pdf',
+            label: 'Documentação', position: 'left'},
           {
             href: 'https://github.com/NotChrisBr0wn/ADC-TP3',
             label: 'GitHub',
@@ -120,7 +122,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/HWNecacU',
               },
               {
                 label: 'X',

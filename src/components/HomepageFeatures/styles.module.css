@@ -1,11 +1,31 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  justify-content: space-around; /* Espaça igualmente os itens */
+  padding: 2rem 1rem; /* Margem horizontal ajustada para telas menores */
   width: 100%;
+  flex-wrap: wrap; /* Permite que os itens "quebrem linha" em telas pequenas */
 }
 
 .featureSvg {
   height: 200px;
   width: 200px;
+  transition: transform 0.3s ease; /* Adiciona uma animação suave */
+}
+
+.featureSvg:hover {
+  transform: scale(1.1); /* Amplia levemente o ícone ao passar o mouse */
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .features {
+    flex-direction: column; /* Alinha itens verticalmente no mobile */
+    text-align: center; /* Centraliza o texto */
+  }
+
+  .featureSvg {
+    height: 150px; /* Reduz o tamanho no mobile */
+    width: 150px;
+  }
 }

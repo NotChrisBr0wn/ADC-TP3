@@ -1,23 +1,26 @@
-yangshun:
-  name: Yangshun Tay
+daniel:
+  name: Daniel Batista
   title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
+  url: https://github.com/NotChrisBr0wn
+  image_url: https://avatars.githubusercontent.com/u/116658518?v=4
+  page: false
   socials:
-    x: yangshunz
-    github: yangshun
+    github: NotChrisBr0wn
 
-slorber:
+richard:
   name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+  title: Dev-Leader
+  url: https://github.com/RichardCesar
+  image_url: https://avatars.githubusercontent.com/u/82003511?v=4
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: RichardCesar
+    
+
+
+mateus:
+  name: Mateus Cantante
+  title: Back-end Engineer
+  url: https://github.com/MateusCantante098125
+  image_url: https://avatars.githubusercontent.com/u/197794659?v=4
+  socials:
+    github: MateusCantante098125
